@@ -1,0 +1,21 @@
+body{
+  text-align: center;
+}
+.table_header{
+  text-align: center;
+}
+.myForm{
+  display: inline-block;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;
+}
+
+button {
+
+  margin-left :5px }
